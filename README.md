@@ -19,5 +19,5 @@
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=makrmeen&" alt="makrmeen" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=makrmeen&show_icons=true&locale=en&layout=compact" alt="makrmeen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=makrmeen&show_icons=true&locale=en&layout=compact" alt="makrmeen" /></p>
 
