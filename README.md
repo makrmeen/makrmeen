@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/makrmeen" target="blank"><img src="https://img.shields.io/twitter/follow/makrmeen?logo=twitter&style=for-the-badge" alt="makrmeen" /></a> </p>
 
-- 🔭 I’m currently working on **My Portafolio**
 
-- 📫 How to reach me **makrmeen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/makrmeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="makrmeen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/makarmeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/makarmeen/" height="30" width="40" /></a>
-<a href="https://instagram.com/makrmeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="makrmeen" height="30" width="40" /></a>
+<p align="center">
+- 📫 Reach me **makrmeen@gmail.com**
+
+<a href="https://twitter.com/makrmeen" target="blank"><img align="center" src=https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.28114687.2136881498.1622468448-1573002918.1622468448" alt="makrmeen" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/makarmeen/" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.67427410.2136881498.1622468448-1573002918.1622468448" alt="https://www.linkedin.com/in/makarmeen/" height="30" width="30" /></a>
+<a href="https://instagram.com/makrmeen" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_32x32.png?_ga=2.33890274.2136881498.1622468448-1573002918.1622468448" alt="makrmeen" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
