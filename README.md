@@ -43,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=makrmeen&show_icons=true&locale=en&layout=compact" alt="makrmeen" /></p>
 
-<h2>Check Out 🔎 My Deployed Projects:</h2>
+<h2>Check Out 🔎 My Deployed Group 🎓 Projects:</h2>
 
 
 <a href="https://berookie.netlify.app/"><h3>🔗 Rookie 🤸‍♀️ </h3></a>
