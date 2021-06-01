@@ -37,3 +37,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=makrmeen&show_icons=true&locale=en&layout=compact" alt="makrmeen" /></p>
 
+<h2>Check Out My Deployed Projects:</h2>
+
+<a href="https://berookie.netlify.app/"><h3>Rookie</h3></a>
+
+La mission était de travailler avec HTML et CSS, Mettre Git en pratique, créer un site adaptatif (Responsive design), 4 à 6 pages avec une navigation cohérente, sur toutes les pages avec GitHub Repository et GitHub Messages de validation explicites. Celui-ci a été principalement réalisé avec du javascript, nous avons appris que ce n'était pas la méthode la plus pratique pour le faire, mais cela s'est avéré positif.
+
+<a href="https://silly-hawking-1e1643.netlify.app/"><h3>Trivia Game</h3></a>
+React Webapp qui utilise une API publique, avec Wireframes, SCRUM et git workflow
+
+
+
