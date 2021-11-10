@@ -1,6 +1,6 @@
 <h1 align="center">  Hello 👋 World! </h1>
 
-<h2 align="center">Welcome to my GitHub I'm Carmen mexican developer living in France</h2>
+<h2 align="center">Welcome to my GitHub I'm Carmen a mexican developer living in France</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/makarmeen/" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.67427410.2136881498.1622468448-1573002918.1622468448" alt="https://www.linkedin.com/in/makarmeen/" height="30" width="30" />   </a>
